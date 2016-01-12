@@ -1,0 +1,6 @@
+name: Btooom-Addon-Default
+main: com.jack.bad.Core
+version: 1.0
+commands:
+  btooom:
+    usage: /btooom help
